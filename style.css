@@ -1,0 +1,15 @@
+.parent{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-align: center;
+  }
+  .child{
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+    position: absolute;
+  }
